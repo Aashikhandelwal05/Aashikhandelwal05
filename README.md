@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7928CA,100:FF0080&height=160&text=Aashi%20Khandelwal&fontAlign=50&fontColor=ffffff&fontSize=48&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlign=50&descSize=16" alt="Aashi Khandelwal Banner" />
-</p>
-
 <h1 align="center">Aashi Khandelwal</h1>
 <h3 align="center">AI/ML Engineer · Data Scientist · Machine Learning Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1200&color=FF4D8D&center=true&vCenter=true&width=800&lines=Building+AI+and+ML+Systems;NLP+%2F+LLMs+%7C+MLOps+%7C+Cloud+AI;94%E2%80%9399%25+accuracy+%7C+sub%E2%80%91500ms+inference" alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="mailto:aashikhandelwal05@gmail.com"><img src="https://img.shields.io/badge/Email-aashikhandelwal05%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
