@@ -15,6 +15,25 @@
 
 <p align="center">India · Building production-ready AI systems with 94–99% accuracy and sub‑500ms inference</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=70&section=footer" alt="wave" />
+</p>
+
+---
+
+###  ⭐ Highlights
+
+<p>
+  <img src="https://img.shields.io/badge/Top%2010%25%20CGPA-8.92%2F10-7E57C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-2025%20Tech%20Contributor-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20LLMs%20%7C%20MLOps-1976D2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=70&section=footer" alt="wave" />
+</p>
+
 ---
 
 ###  🚀 About Me
@@ -69,6 +88,26 @@ AI/ML Engineer with a strong foundation in Python, TensorFlow, NLP/LLMs, and MLO
 
 ---
 
+###  📦 Project Cards
+
+<p>
+  <a href="https://github.com/Aashikhandelwal05/gmail-ai-calendar-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashikhandelwal05&repo=gmail-ai-calendar-bot&theme=radical" alt="gmail-ai-calendar-bot" />
+  </a>
+  <a href="https://github.com/Aashikhandelwal05/fraud-detection-system-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashikhandelwal05&repo=fraud-detection-system-&theme=radical" alt="fraud-detection-system-" />
+  </a>
+  <a href="https://github.com/Aashikhandelwal05/Fake-News-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashikhandelwal05&repo=Fake-News-Detection&theme=radical" alt="Fake-News-Detection" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=70&section=footer" alt="wave" />
+</p>
+
+---
+
 ###  💼 Experience
 
 **AI Engineer (Freelance)** — Apitide (Technology Solutions Agency), Remote  
@@ -111,6 +150,16 @@ Relevant Coursework: Data Structures & Algorithms, Machine Learning, AI, DBMS, O
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Aashikhandelwal05&theme=radical" alt="GitHub Streak" />
+</p>
+
+###  📈 Activity Graph
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashikhandelwal05&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=70&section=footer" alt="wave" />
 </p>
 
 ---
